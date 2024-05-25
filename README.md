@@ -1,2 +1,2 @@
 # NearByService
-Develop Service Based Application
+Develop Product Based Application
